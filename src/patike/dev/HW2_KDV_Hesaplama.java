@@ -16,9 +16,7 @@ public class HW2_KDV_Hesaplama {
 		System.out.println("KDV dahil tutarý " + (cash + totalMoney));
 
 		System.out.println("KDV tutarý " + totalMoney);
-		
-		
-
+	
 	}
 
 }
